@@ -22,6 +22,8 @@
         <main id="main" class="site-main" role="main">
         <div class="images-container">
         <div class="images-container">
+            <!-- I added link for the image -->
+            <!-- Thank You https://www.kobo.com/ca/en/plus/plans?utm_source=google&utm_medium=cpc&utm_campaign=brd_ca_kplu&utm_source=google&utm_medium=cpc&utm_campaign=ca-kplu-search-brd&gad_source=1&gclid=CjwKCAjwtqmwBhBVEiwAL-WAYf40M3gq4sQrfjIDM8cwnAkisUTjpLUoHrn5GpJ0gPwpTR-bvxe_YhoC51sQAvD_BwE for the image -->
     <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/The.jpg" alt="First Image">
     <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Harry.jpg" alt="Second Image">
     <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Robert.jpg" alt="Third Image">

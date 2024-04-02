@@ -5,7 +5,7 @@ function bookstore_theme_enqueue_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'bookstore_theme_enqueue_styles' );
 
-// Theme setup
+// Theme setup to function
 function bookstore_theme_setup() {
     // Added support for WooCommerce
     add_theme_support( 'woocommerce' );
